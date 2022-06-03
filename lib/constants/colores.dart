@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Colores {
-  static const Color background = Color.fromRGBO(250, 250, 250, 1);
+  static const Color background = Color.fromRGBO(255, 255, 255, 1);
   static const Color green = Color.fromARGB(255, 124, 188, 167);
   static const Color blue = Color.fromARGB(255, 67, 101, 156);
   static const Color red = Color.fromARGB(255, 255, 0, 93);

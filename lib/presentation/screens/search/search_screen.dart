@@ -86,6 +86,7 @@ class _SearchScreenState extends State<SearchScreen> {
               //che verrà tramutato in latitudine e longitudine così da invocare le API.
               //Tale UI viene renderizzata anche nel caso di Failed state
               return Stack(
+                alignment: Alignment.center,
                 children: [
                   Positioned(
                       top: MediaQuery.of(context).size.height / 4,

@@ -27,6 +27,8 @@ class _QuoteTextState extends State<QuoteText> {
   @override
   Widget build(BuildContext context) {
     return Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         Container(
           width: MediaQuery.of(context).size.width / 1.2,
