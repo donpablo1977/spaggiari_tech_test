@@ -1,0 +1,10 @@
+{
+  "error_message": "Sorry! We've connection issues with the sky",
+  "geocode_error_message": "Sorry! We are unable to find city coordinates",
+  "humidity": "HUMIDITY",
+  "pressure": "PRESSURE",
+  "searchtext_hint": "Tap here to know what's the weather like in...",
+  "standard_card_bottom_label": "Here's the weather like next days in",
+  "standard_card_top_label": "Here's the weather like today in",
+  "temperature": "TEMPERATURE"
+}

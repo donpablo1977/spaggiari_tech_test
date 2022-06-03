@@ -1,0 +1,10 @@
+{
+  "error_message": "Scusaci! Abbiamo problemi di connessione con il cielo",
+  "geocode_error_message": "Scusaci! Non riusciamo a trovare le coordinate della città",
+  "humidity": "UMIDITÀ",
+  "pressure": "PRESSIONE",
+  "searchtext_hint": "Tappa qui se vuoi conoscere il meteo a...",
+  "standard_card_bottom_label": "Ecco il meteo per i prossimi giorni a",
+  "standard_card_top_label": "Ecco il meteo di oggi a",
+  "temperature": "TEMPERATURA"
+}
